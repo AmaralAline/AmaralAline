@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmaralAline
+- 👋 Hi, I’m Aline Amaral
 - 👀I am interested in an internship to develop my knowledge in programming
 - 🌱 I am currently studying Html, CSS, Json, Rest API, Frondend and Backend
 - 💞️I seek to collaborate on projects in the area of ​​health and primary health care. These are areas that I have experience with as an end user.
